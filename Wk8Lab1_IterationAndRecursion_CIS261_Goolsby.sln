@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Wk8Lab1_IterationAndRecursion_CIS261_Goolsby", "Wk8Lab1_IterationAndRecursion_CIS261_Goolsby.pyproj", "{00A52B51-600B-4C44-A27E-E42D7CA23F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A52B51-600B-4C44-A27E-E42D7CA23F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A52B51-600B-4C44-A27E-E42D7CA23F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B88B8C4-928F-4C57-94AE-FAE156389FF5}
+	EndGlobalSection
+EndGlobal
